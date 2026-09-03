@@ -48,5 +48,6 @@ const learning = {
   design: "Sharpening my UI eye 🎨"
 };
 <br/>
+```
 📬 Contact
 <div align="center"> <a href="mailto:mojtabatamimizadeh@gmail.com"> <img src="https://img.shields.io/badge/Email-mojtabatamimizadeh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Website-Coming%20Soon-6D5BBA?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </div> <br/> <div align="center"> <sub>⭐ If something here inspired you, feel free to star a repo or say hi. Thanks for stopping by.</sub> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6D5BBA&height=100&section=footer" width="100%"/>
