@@ -37,13 +37,15 @@ Design
 <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" /> <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> </div> <br/>
 📈 GitHub Stats
 <div align="center"> <img height="165" src="https://ghstats.dev/api/card?username=mj-tamimi&theme=tokyonight" /> <img height="165" src="https://ghstats.dev/api/langs?username=mj-tamimi&theme=tokyonight&layout=bar" /> <img src="https://streak-stats.demolab.com/?user=mj-tamimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <img src="https://ghstats.dev/api/sparkline?username=mj-tamimi&days=30&width=650" alt="Activity Sparkline" width="100%"/> </div> <br/>
-🌱 Currently Learning
-text
+
+## 🌱 Currently Learning
+
+```javascript
 const learning = {
-  frontend: "leveling up JavaScript 🚀",
-  concepts: "advanced programming fundamentals 🧠",
-  workflow: "cleaner Git & GitHub habits 🔧",
-  design:   "sharpening my UI eye 🎨"
+  frontend: "Leveling up JavaScript 🚀",
+  concepts: "Advanced programming fundamentals 🧠",
+  workflow: "Cleaner Git & GitHub habits 🔧",
+  design: "Sharpening my UI eye 🎨"
 };
 <br/>
 📬 Contact
