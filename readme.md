@@ -106,7 +106,7 @@ A responsive luxury fragrance storefront built with HTML, CSS, and Vanilla JavaS
 * RTL support
 * UI animations and visual effects
 
-**Repository:** `github.com/mj-tamimi/Luxury-Cologne-Website`
+**Repository:** [Click Here](https://github.com/mj-tamimi/Luxury-Cologne-Website)
 
 ---
 
