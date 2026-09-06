@@ -54,6 +54,8 @@ A luxury front-end e-commerce concept created to explore **responsive web develo
 
 The project presents a fictional high-end fragrance store with a dark luxury aesthetic, English/Arabic localization, multi-currency pricing, and interactive shopping features.
 
+> **Note:** This is a front-end e-commerce concept. It is not presented as a complete production e-commerce platform with backend services, database infrastructure, authentication, payment processing, or order processing.
+
 ### ✨ Features
 
 * 🖥️ Responsive layout for desktop, tablet, and mobile
@@ -92,7 +94,7 @@ The project presents a fictional high-end fragrance store with a dark luxury aes
 * Managing shopping cart calculations including quantities, subtotals, and tax
 * Handling dynamic product rendering and interactive UI states
 
-### 🧠 Technical Decisions
+### ⚙️ Technical Decisions
 
 * Used Vanilla JavaScript without external frameworks
 * Used CSS Grid and Flexbox for responsive layouts
@@ -100,7 +102,7 @@ The project presents a fictional high-end fragrance store with a dark luxury aes
 * Used CSS variables for reusable design values
 * Separated product rendering from UI interactions
 
-### 📚 What I Learned
+### 🧠 What I Learned
 
 * DOM manipulation
 * Managing application state with JavaScript
@@ -133,33 +135,27 @@ Luxury-Cologne-Website/
 └── Localization data
 ```
 
-> The structure above should be adjusted to match the actual repository file structure if the project uses different folders or filenames.
+> The structure above is a high-level overview. Update it with the exact repository folders and filenames if your actual project structure differs.
 
 ### 🖼️ Project Preview
 
-#### Desktop Preview
+**🌐 Live Demo**
 
-<!-- Add desktop screenshot here -->
+Experience the complete interactive project:
 
-#### Mobile Preview
+**https://desperate-white-4duyiufr.edgeone.dev/**
 
-<!-- Add mobile screenshot here -->
-
-#### Arabic RTL Preview
-
-<!-- Add Arabic RTL screenshot here -->
-
-#### Shopping Cart Preview
-
-<!-- Add shopping cart screenshot here -->
+The live demo showcases the responsive interface, English/Arabic localization, RTL layout, product browsing, and interactive shopping cart.
 
 ### 🔗 Repository
 
-[View Repository](https://github.com/mj-tamimi/Luxury-Cologne-Website)
+**GitHub Repository**
+
+**https://github.com/mj-tamimi/Luxury-Cologne-Website**
 
 ### 🌐 Live Demo
 
-Not deployed yet.
+**https://desperate-white-4duyiufr.edgeone.dev/**
 
 ---
 
@@ -167,12 +163,12 @@ Not deployed yet.
 
 Additional development projects will be listed here as they are completed and published.
 
-Examples of future project categories include:
+Current project categories planned for this section include:
 
-* Python Applications
-* JavaScript Projects
-* Web Applications
-* Other programming projects
+* 🐍 Python Applications
+* ⚡ JavaScript Projects
+* 🌐 Web Applications
+* 💻 Other Programming Projects
 
 ---
 
@@ -187,8 +183,6 @@ My current design focus includes:
 * Canva
 * Layout & Typography
 * Responsive Design Concepts
-
-> Design case studies will be added here once complete projects are ready to showcase.
 
 ---
 
