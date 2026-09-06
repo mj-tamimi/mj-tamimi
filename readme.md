@@ -2,12 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:1E90FF&height=220&section=header&text=Mojtaba%20Tamimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D9EEB&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Fluent+in+Multiple+Languages+%F0%9F%8C%8D;Always+Learning+%26+Building+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D9EEB&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Fluent+in+Multiple+Languages+%F0%9F%8C%8D;Always+Learning+%26+Building+%E2%9A%A1" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mj-tamimi&label=Profile%20Views&color=6d5bba&style=for-the-badge" alt="Profile Views"/>
+
 <img src="https://img.shields.io/github/followers/mj-tamimi?label=Followers&style=for-the-badge&color=1e90ff" alt="Followers"/>
+
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" alt="Status"/>
 
 </div>
@@ -18,7 +20,7 @@
 
 I am a student developer and designer interested in **web development, programming, and digital design**.
 
-I started exploring coding at a young age and enjoy learning by experimenting, building projects, and improving through practice.
+I enjoy learning through experimentation, building projects, and improving my skills through practice.
 
 I work across both development and design, combining technical and creative skills to create interactive and visually focused digital experiences.
 
@@ -37,23 +39,26 @@ I work across both development and design, combining technical and creative skil
 ### 🎨 Design
 
 <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" />
+
 <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 ## 🌌 Luxury Cologne Website — Tamimi Rarities
 
+**Type:** Front-End E-Commerce Concept
+
 A luxury front-end e-commerce concept created to explore **responsive web development, interactive UI, localization, and modern visual design**.
 
-The project presents a fictional high-end fragrance store with a dark luxury aesthetic, interactive shopping features, English/Arabic localization, and multi-currency pricing.
+The project presents a fictional high-end fragrance store with a dark luxury aesthetic, English/Arabic localization, multi-currency pricing, and interactive shopping features.
 
-### ✨ Highlights
+### ✨ Features
 
 * 🖥️ Responsive layout for desktop, tablet, and mobile
 * 🌙 Dark luxury-themed interface
-* 🌍 English and Arabic language support
+* 🌍 English and Arabic localization
 * ↔️ Full Arabic RTL layout support
 * 💱 Multi-currency pricing for KWD, USD, EUR, SAR, and AED
 * 🛒 Interactive shopping cart with quantities, subtotals, and tax calculation
@@ -80,75 +85,131 @@ The project presents a fictional high-end fragrance store with a dark luxury aes
 * Localization & RTL Implementation
 * Testing & Refinement
 
-### 🔗 Project
+### 🧩 Challenges
 
-**Repository:** [Click Here](https://github.com/mj-tamimi/Luxury-Cologne-Website)
+* Implementing Arabic RTL layouts alongside the English interface
+* Building responsive layouts across different screen sizes
+* Managing shopping cart calculations including quantities, subtotals, and tax
+* Handling dynamic product rendering and interactive UI states
 
-> A live demo will be added when the project is deployed.
+### 🧠 Technical Decisions
+
+* Used Vanilla JavaScript without external frameworks
+* Used CSS Grid and Flexbox for responsive layouts
+* Implemented RTL support for Arabic
+* Used CSS variables for reusable design values
+* Separated product rendering from UI interactions
+
+### 📚 What I Learned
+
+* DOM manipulation
+* Managing application state with JavaScript
+* Responsive design
+* RTL layout implementation
+* Working with dynamic product data
+* Testing layouts across different screen sizes
+
+### 📌 Status
+
+**Completed**
+
+### 🔮 Future Improvements
+
+* Deploy the website
+* Add product filtering
+* Improve cart persistence
+* Add a checkout interface
+* Improve accessibility
+
+### 🏗️ Project Structure
+
+```text
+Luxury-Cologne-Website/
+├── HTML structure
+├── CSS styles
+├── JavaScript logic
+├── Product data
+├── Assets
+└── Localization data
+```
+
+> The structure above should be adjusted to match the actual repository file structure if the project uses different folders or filenames.
+
+### 🖼️ Project Preview
+
+#### Desktop Preview
+
+<!-- Add desktop screenshot here -->
+
+#### Mobile Preview
+
+<!-- Add mobile screenshot here -->
+
+#### Arabic RTL Preview
+
+<!-- Add Arabic RTL screenshot here -->
+
+#### Shopping Cart Preview
+
+<!-- Add shopping cart screenshot here -->
+
+### 🔗 Repository
+
+[View Repository](https://github.com/mj-tamimi/Luxury-Cologne-Website)
+
+### 🌐 Live Demo
+
+Not deployed yet.
 
 ---
 
 # 💻 Development Projects
 
-### 🌌 Luxury Cologne Website
+Additional development projects will be listed here as they are completed and published.
 
-**Type:** Front-End / E-Commerce Concept
+Examples of future project categories include:
 
-A responsive luxury fragrance storefront built with HTML, CSS, and Vanilla JavaScript.
-
-**Key areas:**
-
-* Responsive web design
-* Interactive shopping experience
-* Dynamic product rendering
-* Multi-currency conversion
-* English / Arabic localization
-* RTL support
-* UI animations and visual effects
-
-**Repository:** [Click Here](https://github.com/mj-tamimi/Luxury-Cologne-Website)
+* Python Applications
+* JavaScript Projects
+* Web Applications
+* Other programming projects
 
 ---
 
-# 🎨 Design Portfolio
+# 🎨 Design Skills
 
-I also work on digital and UI design alongside development.
-
-### Current Focus
+My current design focus includes:
 
 * UI Design
 * Graphic Design
-* Figma Projects
+* Figma
 * Photoshop
 * Canva
 * Layout & Typography
 * Responsive Design Concepts
 
-> Design case studies and individual portfolio projects will be added as they are completed and published.
+> Design case studies will be added here once complete projects are ready to showcase.
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced JavaScript concepts
-* DOM manipulation
+* JavaScript DOM manipulation
 * Responsive front-end development
 * Cleaner Git & GitHub workflows
 * UI design systems
-* Programming fundamentals
 * Building larger projects from start to finish
 
 ---
 
 # 🎯 Goals
 
-* 🚀 Build complete responsive web applications
-* 🐍 Publish more Python projects
-* 🎨 Create complete UI design case studies
-* ⚡ Improve JavaScript skills
-* 🔗 Build projects combining design and development
-* 🌍 Contribute to open-source projects
-* 📚 Continue strengthening programming fundamentals
+* 🚀 Deploy the Luxury Cologne Website
+* 🐍 Publish two Python projects
+* ⚡ Build a second complete JavaScript application
+* 🎨 Create one complete UI design case study
+* 🔗 Build a project combining Figma design and front-end development
+* 🌍 Contribute to an open-source repository
 
 ---
 
@@ -190,11 +251,15 @@ I also work on digital and UI design alongside development.
 <div align="center">
 
 <a href="https://github.com/mj-tamimi">
+
 <img src="https://img.shields.io/badge/GitHub-mj--tamimi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
 </a>
 
 <a href="mailto:mojtabatamimizadeh@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-mojtabatamimizadeh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
 </a>
 
 </div>
@@ -203,7 +268,7 @@ I also work on digital and UI design alongside development.
 
 <div align="center">
 
-<sub>⭐ Thanks for stopping by. More projects are on the way.</sub>
+<sub>⭐ Thanks for stopping by.</sub>
 
 </div>
 
