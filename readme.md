@@ -115,37 +115,45 @@ The project presents a fictional high-end fragrance store with a dark luxury aes
 
 **Completed**
 
-### 🔮 Future Improvements
-
-* Deploy the website
-* Add product filtering
-* Improve cart persistence
-* Add a checkout interface
-* Improve accessibility
 
 ### 🏗️ Project Structure
 
 ```text
 Luxury-Cologne-Website/
-├── HTML structure
-├── CSS styles
-├── JavaScript logic
-├── Product data
-├── Assets
-└── Localization data
+├── index.html
+├── tr.css
+├── README.md
+├── flag-round-250
+├── asad.png
+├── black_cologne.png
+├── blue_de_chanel.png
+├── dior_sauvage.png
+├── jean_paul.png
+├── shopping_cart.png
+└── white-shopping-cart-icon.jpg
 ```
 
 > The structure above is a high-level overview. Update it with the exact repository folders and filenames if your actual project structure differs.
 
 ### 🖼️ Project Preview
 
-**🌐 Live Demo**
+#### Desktop Homepage
 
-Experience the complete interactive project:
+<img width="1351" height="767" alt="Screenshot 2026-09-06 200716" src="https://github.com/user-attachments/assets/6d246a76-3874-416f-be17-8226dd4636f2" />
 
-**https://desperate-white-4duyiufr.edgeone.dev/**
 
-The live demo showcases the responsive interface, English/Arabic localization, RTL layout, product browsing, and interactive shopping cart.
+#### Product Section
+
+<img width="1347" height="767" alt="Screenshot 2026-09-06 201049" src="https://github.com/user-attachments/assets/4c96cb13-3e72-489a-bfcf-a960737f49ad" />
+
+#### Shopping Cart
+
+<img width="500" height="585" alt="Screenshot 2026-09-06 202438" src="https://github.com/user-attachments/assets/17660367-fa3a-49b1-8734-26d04ff9fd14" />
+
+#### Arabic RTL Layout
+
+<img width="1332" height="485" alt="Screenshot 2026-09-06 202529" src="https://github.com/user-attachments/assets/df388805-c00c-4c9b-9302-7a9dc16c6487" />
+
 
 ### 🔗 Repository
 
@@ -161,11 +169,93 @@ The live demo showcases the responsive interface, English/Arabic localization, R
 
 # 💻 Development Projects
 
-✊ Rock Paper Scissors
+## ✊ Rock Paper Scissors
 
-A Rock Paper Scissors project built to practice programming logic, user interaction, and core development concepts.
+A simple command-line Rock, Paper, Scissors game built with Python. The player chooses the number of rounds and competes against a computer opponent with randomly selected moves.
 
-🔗 [Repository](https://github.com/mj-tamimi/rock_paper_scissors)
+### 🛠️ Technologies
+
+* **Python 3**
+* **Random module**
+* **Functions**
+* **Conditional logic**
+* **User input**
+
+### ✨ Features
+
+* Choose the number of rounds
+* Play against a computer opponent
+* Random computer choices
+* Player and computer score tracking
+* Round result detection
+* Win, loss, and draw detection
+
+### 🧩 Challenges
+
+* Managing the game logic
+* Comparing player and computer choices
+* Tracking scores across rounds
+* Handling different game outcomes
+
+### 🧠 What I Learned
+
+* Conditional logic
+* Functions
+* Random choice generation
+* User input
+* Game state and score tracking
+
+### 📌 Status
+
+**In Development**
+
+### 🔗 [Repository](https://github.com/mj-tamimi/rock_paper_scissors)
+
+---
+
+## 🧮 Smart Calculator
+
+A simple Python command-line calculator built to practise functions, user input, conditional logic, arithmetic operations, and basic error handling.
+
+### 🛠️ Technologies
+
+* **Python 3**
+* **Functions**
+* **Conditional logic**
+* **User input**
+* **Basic arithmetic operators**
+
+### ✨ Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Powers
+* Remainders
+* Division-by-zero protection
+* Command-line interface
+
+### 🧩 Challenges
+
+* Handling different arithmetic operations
+* Organizing calculations with functions
+* Handling user input
+* Preventing division-by-zero errors
+
+### 🧠 What I Learned
+
+* Creating and calling functions
+* Taking user input
+* Using conditional statements
+* Working with arithmetic operators
+* Basic error handling
+
+### 📌 Status
+
+**Completed**
+
+### 🔗 [Repository](https://github.com/mj-tamimi/smart_calculator)
 
 ---
 
@@ -175,7 +265,6 @@ My current design focus includes:
 
 * UI Design
 * Graphic Design
-* Figma
 * Photoshop
 * Canva
 * Layout & Typography
@@ -195,11 +284,8 @@ My current design focus includes:
 
 # 🎯 Goals
 
-* 🚀 Deploy the Luxury Cologne Website
 * 🐍 Publish two Python projects
-* ⚡ Build a second complete JavaScript application
 * 🎨 Create one complete UI design case study
-* 🔗 Build a project combining Figma design and front-end development
 * 🌍 Contribute to an open-source repository
 
 ---
