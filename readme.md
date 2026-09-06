@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:1E90FF&height=220&section=header&text=Mojtaba%20Tamimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F0202,100:8B0000&height=220&section=header&text=Mojtaba%20Tamimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D9EEB&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Fluent+in+Multiple+Languages+%F0%9F%8C%8D;Always+Learning+%26+Building+%E2%9A%A1" alt="Typing SVG"/>
 
@@ -349,4 +349,4 @@ My current design focus includes:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6D5BBA&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F0202,100:8B0000&height=100&section=footer" width="100%"/>
