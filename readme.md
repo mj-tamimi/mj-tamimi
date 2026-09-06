@@ -82,7 +82,7 @@ The project presents a fictional high-end fragrance store with a dark luxury aes
 
 ### 🔗 Project
 
-**Repository:** `github.com/mj-tamimi/Luxury-Cologne-Website`
+**Repository:** `[Click Here](https://github.com/mj-tamimi/Luxury-Cologne-Website.git)`
 
 > A live demo will be added when the project is deployed.
 
