@@ -161,14 +161,11 @@ The live demo showcases the responsive interface, English/Arabic localization, R
 
 # 💻 Development Projects
 
-Additional development projects will be listed here as they are completed and published.
+✊ Rock Paper Scissors
 
-Current project categories planned for this section include:
+A Rock Paper Scissors project built to practice programming logic, user interaction, and core development concepts.
 
-* 🐍 Python Applications
-* ⚡ JavaScript Projects
-* 🌐 Web Applications
-* 💻 Other Programming Projects
+🔗 [Repository](https://github.com/mj-tamimi/rock_paper_scissors)
 
 ---
 
